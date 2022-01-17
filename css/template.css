@@ -2,7 +2,10 @@
     display: block;
     margin: auto;
   }
-
+img{
+  vertical-align: middle;
+  max-width: 100%;
+}
 body {
     background-color: #060951;
     color: white;
@@ -51,4 +54,5 @@ a:link, a:visited, a:hover, a:active {
     right: 0;
     top: 0;
     z-index: -1;
+    max-width: 50em;
   }
