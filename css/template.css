@@ -7,7 +7,8 @@ img{
   max-width: 100%;
 }
 body {
-    background-color: #060951;
+    background: rgb(8, 40, 126);
+    background: radial-gradient(circle, rgba(20,65,184,1) 0%, rgba(6,9,81,1) 68%);
     color: white;
     /* font-family: 'Segoe UI'; */
     margin: 0 auto;
@@ -59,10 +60,11 @@ body {
 
   }
 .navbar-nav{
-  margin-left: 300px;
+  margin-top: 15px;
+  margin-left: 250px;
 }
 .nav-item{
-  padding-left: 25px;
+  padding-left: 20px;
 }
 .nav-item-download a:link{
   display:inline-block;
