@@ -56,10 +56,45 @@ a:link, a:visited, a:hover, a:active {
     z-index: -1;
     max-width: 50em;
   }
+  .banner-img2{
+    position: absolute;
+    left: -80px;
+    top: 0;
+    z-index: 1;
+    max-width: 48em;
+
+  }
+.navbar-nav{
+  margin-left: 300px;
+}
+.nav-item{
+  padding-left: 25px;
+}
+.nav-item-download a:link{
+  display:inline-block;
+  border:1px solid #1EDAFF;
+  padding:10px 15px;
+  text-decoration:none;
+  border-radius:30px;
+  margin-left: 30px;
+}
 
 .banner-text{
   padding-top: 100px;
 }
+.banner-text-section2{
+  right: 0;
+  padding-top: 60px;
+  text-align: right;
+}
 
-
-
+.banner{
+  margin-bottom: 160px;
+}
+.banner-section2{
+  margin-top: 100px;
+  background-color: #051471;
+  z-index: 0;
+  height: 850px;
+  margin-bottom: 60px;
+}
