@@ -67,17 +67,6 @@ body {
     line-height: 25px;
     color: #6682C2;
   }
-  .banner-text-11{
-    color: white;
-    font-size: 14px;
-    font-weight: normal;
-    padding-top: 5px;
-    width: 350px;
-    text-align: left;
-    float: right;
-    line-height: 25px;
-    color: #6682C2;
-  }
   .banner-text-7{
     z-index: 1;
     color: white;
@@ -99,8 +88,8 @@ body {
   .banner-text-9{
     padding-left: 500px;
     color: white;
-    font-size: 2rem;
-    padding-top: 220px;
+    font-size: 2.5rem;
+    padding-top: 180px;
     font-weight: bold;
   }
   .banner-text-10{
@@ -112,7 +101,7 @@ body {
     width: 900px;
     text-align: left;
     float: left;
-    padding-top: 60px;
+    padding-top: 40px;
     line-height: 25px;
     color: #6682C2;
   }
