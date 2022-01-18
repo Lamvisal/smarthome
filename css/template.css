@@ -21,8 +21,12 @@ body {
     text-align: center;
 }
 
+/* .nav-item li a.active {
+  color: #FDB813;
+}*/
+
 #menu li {
-    color: #f1f1f1;
+    color: #ffffff;
     float: left;
     width: 120px;
     height: 40px;
@@ -42,7 +46,29 @@ body {
   .banner-text-3{
     color: white;
     font-size: 1.5rem;
+    padding-top: 15px;
+  }
+  .banner-text-4{
+    color: #FDB813;
+    font-size: 5rem;
+    padding-top: 100px;
+  }
+  .banner-text-5{
+    color: white;
+    font-size: 1.5rem;
+    padding-top: 5px;
+  }
+  .banner-text-6{
+    color: white;
+    font-size: 14px;
+    font-weight: normal;
+    padding-top: 5px;
+    width: 350px;
+    text-align: left;
+    float: right;
     padding-top: 20px;
+    line-height: 25px;
+    color: #6682C2;
   }
   .banner-img{
     position: absolute;
@@ -75,8 +101,19 @@ body {
   margin-left: 30px;
 }
 
+.button-download {
+  display:inline-block;
+  background-color: #FDB813;
+  border:none;
+  color: #051471;
+  padding:15px 25px;
+  border-radius:30px;
+  margin-top: 40px;
+  font-weight: 500;
+}
+
 .banner-text{
-  padding-top: 100px;
+  padding-top: 80px;
 }
 .banner-text-section2{
   right: 0;
@@ -85,7 +122,7 @@ body {
 }
 
 .banner{
-  margin-bottom: 160px;
+  margin-bottom: 120px;
 }
 .banner-section2{
   margin-top: 100px;
