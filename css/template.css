@@ -100,20 +100,18 @@ body {
     z-index: 1;
     color: white;
     font-size: 20px;
-    padding-top: 5px;
     text-transform: uppercase;
-    text-align: left;
+    text-align: center;
     padding-top: 40px;
-    /* padding-left: 360px; */
     font-weight: 200;
+
   }
   .banner-text-8a{
     z-index: 1;
     color: #FDB813;
     font-size: 50px;
-    text-align: left;
-    /* padding-left: 270px; */
-    /* float: left; */
+    text-align: center;
+
   }
   /* .banner-text-9{
     padding-left: 500px;
@@ -430,3 +428,4 @@ body {
   float: right;
   width: 300px;
 }
+
