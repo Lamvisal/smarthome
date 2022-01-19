@@ -80,6 +80,7 @@ body {
     text-align: left;
     padding-top: 40px;
     padding-left: 380px;
+    font-weight: 200;
   }
   .banner-text-8{
     z-index: 1;
@@ -98,13 +99,14 @@ body {
     text-align: left;
     padding-top: 40px;
     padding-left: 360px;
+    font-weight: 200;
   }
   .banner-text-8a{
     z-index: 1;
     color: #FDB813;
     font-size: 50px;
     text-align: left;
-    padding-left: 280px;
+    padding-left: 270px;
     float: left;
   }
   .banner-text-9{
@@ -176,6 +178,48 @@ body {
     line-height: 25px;
     color: #6682C2;
   }
+
+  .banner-text-16{
+    z-index: 1;
+    color: #FDB813;
+    font-size: 50px;
+    text-align: left;
+    padding-left: 200px;
+    padding-top: 100px;
+    float: left;
+  }
+
+  .banner-text-17{
+    color: #FDB813;
+    font-size: 3rem;
+    padding-top: 100px;
+    padding-right: 150px;
+    width: 450px;
+    margin-left: -70px;
+  }
+
+  .banner-text-18{
+    padding-left: 20px;
+    color: #FDB813;
+    font-size: 1rem;
+    padding-top: 40px;
+    font-weight: 150;
+    text-transform: uppercase;
+  }
+
+  .banner-text-19{
+    padding-left: 20px;
+    font-size: 14px;
+    font-weight: 200;
+    width: 900px;
+    text-align: left;
+    float: left;
+    padding-top: 10px;
+    line-height: 25px;
+    color: #6682C2;
+    text-decoration: none;
+  }
+
   .banner-img{
     position: absolute;
     right: 0;
@@ -243,10 +287,21 @@ body {
     z-index: 1;
     max-width: 45em;
   }
-  .navbar-collapse{
-    justify-content:flex-end;
+  .banner-img10{
+    position: absolute;
+    left: -80px;
+    top: 0;
+    z-index: 1;
+    max-width: 40em;
   }
+  .banner-img12{
+    padding-left: 20px;
+  }
+  
 
+.navbar-collapse{
+  justify-content:flex-end;
+}
 .nav-item{
   padding-left: 20px;
 }
@@ -316,7 +371,7 @@ body {
   background: rgb(10, 47, 148);
   background: radial-gradient(circle, rgb(25, 73, 206) 0%, rgb(9, 13, 112) 68%);
   z-index: 0;
-  height: 740px;
+  height: 780px;
   padding-left: 140px;
 }
 
@@ -327,7 +382,45 @@ body {
   padding-left: 140px;
 }
 
+.banner-section8{
+  background-color: #1C128A;
+  z-index: 0;
+  height: 660px;
+}
+
+.banner-section9{
+  background-color: #060951;
+  z-index: 0;
+  height: 420px;
+}
+
 .banner-text-section4{
   padding-top: 60px;
   z-index: 1;
+}
+
+.form-contact{
+  width: 500px;
+  padding-top: 200px;
+}
+
+.download-app{
+  width: 550px;
+  padding-top: 40px;
+  margin-left: -200px;
+}
+
+.col1{
+  float: left;
+  width: 300px;
+}
+
+.col2{
+  float: left;
+  width: 200px;
+}
+
+.col3{
+  float: right;
+  width: 300px;
 }
