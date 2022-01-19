@@ -194,6 +194,28 @@ body {
     margin-left: -70px;
   }
 
+  .banner-text-18{
+    padding-left: 20px;
+    color: #FDB813;
+    font-size: 1rem;
+    padding-top: 40px;
+    font-weight: 150;
+    text-transform: uppercase;
+  }
+
+  .banner-text-19{
+    padding-left: 20px;
+    font-size: 14px;
+    font-weight: 200;
+    width: 900px;
+    text-align: left;
+    float: left;
+    padding-top: 10px;
+    line-height: 25px;
+    color: #6682C2;
+    text-decoration: none;
+  }
+
   .banner-img{
     position: absolute;
     right: 0;
@@ -267,6 +289,9 @@ body {
     top: 0;
     z-index: 1;
     max-width: 40em;
+  }
+  .banner-img12{
+    padding-left: 20px;
   }
   
 .navbar-nav{
@@ -359,6 +384,12 @@ body {
   height: 660px;
 }
 
+.banner-section9{
+  background-color: #060951;
+  z-index: 0;
+  height: 570px;
+}
+
 .banner-text-section4{
   padding-top: 60px;
   z-index: 1;
@@ -370,8 +401,22 @@ body {
 }
 
 .download-app{
-  width: 580px;
+  width: 550px;
   padding-top: 40px;
   margin-left: -200px;
 }
 
+.col1{
+  float: left;
+  width: 300px;
+}
+
+.col2{
+  float: left;
+  width: 200px;
+}
+
+.col3{
+  float: right;
+  width: 300px;
+}
